@@ -1,0 +1,798 @@
+ .element-1{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  
+ }
+ .Anchor{
+  color: #8dc647;
+ }
+ .logo{
+   display: flex;
+   flex-direction: row;
+ }
+ .B_img{
+  
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  color:#dee2e6 ;
+   display: flex;
+  flex-direction: row;
+}
+.inline{
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  
+}
+.center{
+  font-size: 10px;
+  margin-top: -41px;
+  color: #cbcfd3;
+}
+.B_tag{
+  margin-top: -5px;
+  color: black
+}
+.main-body{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.element-2{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.score{
+  display: flex;
+  flex-direction: row;
+  margin-right: 24px;
+  padding-right: 24px;
+}
+.score-no{
+  border-right: 1px solid #dee2e6!important;
+  justify-content: center;
+  padding-right: 24px;
+}
+.trad{
+  padding-left: 24px;
+  color:#8dc647 ;
+  size: 20px;
+  border: #8dc647 ;
+}
+.button{
+  background-color: #8dc647;
+  color: white;
+  border: 1px solid #8dc647;
+  padding: 4px 15px;
+  height: 31px;
+  cursor: pointer;
+  font-size: .875rem;
+}
+.Anchor1{
+  text-align: center!important;
+  color: #8dc647;
+  font-size: 12px;
+  margin-top: 10px;
+}
+.Anchor1:hover{
+  color: yellowgreen;
+}
+.num{
+  color: #8dc647;
+  margin-left: 19px;
+  font-size: 26px;
+  padding-right: 20px;
+}
+.list li{
+  display: inline;
+  list-style-type: none;
+  margin-right: 30px;
+  color: grey;
+ 
+}
+.list{
+  background-color:white;
+  height: 30px;
+  width: 100%;
+  
+}
+.list sup{
+  background-color: rgb(255, 191, 15);
+  color: black;
+  border-radius: 5px;
+  font-size: 10px;
+  width: 20px;
+}
+.middle{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 1px solid gray;
+}
+.content{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.middle{
+  border: 1px solid #dee2e6;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  height: 150px;
+  width: 100%;
+  
+
+}
+.price{
+  margin-left: 90px;
+  
+}
+.coins{
+  margin-left: 120px;
+}
+
+.pairs{
+  margin-left: 70px;
+}
+.trading{
+  font-size: 13px;
+}
+.value{
+  font-size: 20px;
+}
+.left-container{
+  margin-top: 50px;
+}
+.checkbox{
+ 
+  margin-left: 200x;
+  margin-top: 20px;
+  align-items: flex-start;
+}
+.input{
+  height: 40px;
+  margin-top: 20px;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+}
+.right-container{
+  padding-right: 20px;
+  padding-top: 20px;
+}
+.border{
+  border: 1px solid #dee2e6;
+}
+.More{
+ margin-left: 40%;
+ 
+ 
+}
+.heading{
+  margin-top: 40px;
+}
+.button2{
+  background-color:#8dc647 ;
+}
+.none{
+  width: 100%;
+  height: 20px;
+  border-bottom:1px solid #dee2e6 ;
+}
+.b-link{
+  color: #8dc647;
+}
+.b-link:hover{
+  color: lime;
+}
+.sub-element{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.binance-body{
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.Fiat{
+  margin-left: -133px;
+}
+.website{
+  margin-left: -86px;
+}
+.market{
+  margin-left: -154px;
+}
+.rank{
+  margin-left: -264px;
+}
+.payment{
+  margin-right: 187px;
+}
+.Email{
+  margin-right: 179px;
+}
+.code{
+  margin-right: 187px;
+}
+.community{
+  margin-right: 208px;
+}
+.b-element1{
+  margin-top: 20px;
+}
+.b-element2{
+  margin-top: 30px;
+}
+.b-element3{
+  margin-top: 20px;
+}
+.sub-element1{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sub-element2{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sub-element3{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sub-element4{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sub-element5{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pie-body{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.exchange{
+  justify-content: center!important;
+  align-items: center!important;
+  margin-left: 32%;
+}
+
+.volume{
+  -webkit-appearance: none;
+  width: 100%;
+  height: 8px;
+  outline: none;
+  opacity: .7;
+  transition: opacity .2s;
+  border-radius: .25rem;
+}
+.Tscore-body{
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.t-element1{
+  border: 1px solid  #eee;
+  border-top: none;
+  box-shadow: #dee2e6;
+}
+.t-element3{
+  margin-top: 10%;
+}
+.t-element4{
+  margin-top: 10%;
+}
+.t-element5{
+  margin-top: 10%;
+}
+.t-element6{
+  margin-top: 10%;
+}
+.t-element7{
+  margin-top: 10%;
+}
+.t-element8{
+  margin-top: 10%;
+}
+.line{
+  background-color: #8dc647;
+  width: 100%;
+  height: 5%;
+  border-radius: 12px;
+  border-color: #8dc647;
+}
+.b-trust{
+  text-align: center!important;
+  width: 20%;
+  padding-left: 5%;
+  margin-top: 3%;
+}
+.b-head{
+  font-size: 18px;
+}
+.ten{
+  font-size: 48px;
+}
+.tsub-element1{
+  display: flex;
+  flex-direction: row;
+  
+}
+.t-table{
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+  justify-content: space-between;
+  padding-bottom: 2%;
+}
+.ant-progress-line {
+  position: relative;
+  width: 300%!important;
+  font-size: 14px;
+  padding-left: 100%; 
+}
+.t-heading{
+    margin-bottom: .5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    font-size: 26px;
+    margin-top: 4%;
+    margin-left: 3%;
+  }
+  .t-heading2{
+    margin-bottom: .5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    font-size: 20px;
+    margin-left: 3%;
+  }
+
+.t-table1{
+  display: flex;
+  flex-direction: column;
+  padding-top: 2%;
+}
+.second-table1{
+  padding-left: 3%;
+}
+.second-table2{
+  padding-left: 3%;
+}
+.second-table3{
+  padding-left: 3%;
+}
+.second-table4{
+  padding-left: 3%;
+}
+.second-table5{
+  padding-left: 3%;
+}
+.second-table6{
+  padding-left: 3%;
+}
+.b-trust2{
+  width: 70%;
+  padding-right: 20%;
+  margin-top: 5%;
+}
+.text2{
+  color: #bebebe!important;
+}
+.tsub-element2{
+  margin-left: 3%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+.liquidity{
+  margin-left: 5%;
+  
+}
+.liquidity1{
+  margin: 2%;
+}
+.cyber-element{
+  margin-left: 11%;
+}
+.liquidity-value{
+  padding-left: 103%;
+  margin-bottom: 5%;
+}
+.liquidity-value1{
+  padding-left: 399%;
+  margin-bottom: 5%;
+}
+.liquidity-value2{
+  padding-left: 1000%;
+  color: #4eaf0a;
+}
+.muted {
+  color: #bebebe!important;
+  margin-left: 3%;
+}
+.table-head{
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+.t-element3{
+  margin-top: 10%;
+}
+.rating{
+  margin-left: 3%;
+  margin-top: 1%;
+}
+.API-table table {
+  
+  margin-bottom: 1rem;
+  color: #212529;
+  display: flex;
+  justify-content: center;
+}
+.API-table2{
+  width: 130%;
+  border-collapse: separate;
+  border-spacing: 40px 10px;
+  padding-right: 20%;
+}
+.check{
+  margin-left: 0%;
+  padding-right: 20%;
+  border-top: #bebebe 1px solid;
+}
+.border-top-0{
+  margin-left: 5%;
+} 
+.tick{
+  padding-left: 50%;
+  justify-content: space-between;
+}
+
+.new-table{
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 70%
+}
+.firstnew{
+  margin-right: 10%;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 2px solid #dee2e6;
+  justify-content: space-between;
+}
+.secondnew{
+  display: flex;
+  flex-direction: row;
+}
+span.s-value2 {
+  padding-left: 508%;
+}
+span.s-value3 {
+  padding-left: 888%;
+}
+span.s-value4 {
+  padding-left: 1564%;
+}
+span.s-value5 {
+  padding-left: 2260%;
+}
+span.s-value6 {
+  padding-left: 2632%;
+}
+span.s-value7 {
+  padding-left: 1583%;
+}
+.first-API{
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 2px solid #dee2e6;
+  justify-content: space-between;
+  padding-left: 7%;
+  width: 94%
+}
+.API-table {
+  padding-left: 3%;
+  padding-top: 3%;
+}
+.second-API{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+    width: 88%
+}
+.flex{
+  display: flex;
+  flex-direction: row;
+}
+.second-regular{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+    width: 88%;
+  
+}
+.first-regular{
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 2px solid #dee2e6;
+  justify-content: space-between;
+  padding-left: 7%;
+  width: 94%
+}
+.regular-table{
+  padding-top: 3%;
+  padding-left: 3%;
+}
+.stat-e1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.charts{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ 
+  
+}
+
+
+
+
+
+@media (max-width:1000px){
+  .charts{
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .regular-table{
+    display: flex;
+    flex-direction: row;
+  }
+  .second-regular1{
+    display: none;
+  }
+  .first-regular{
+   
+    display: flex;
+    flex-direction: column;
+    border-bottom: none;
+    justify-content: space-between;
+    
+  }
+  .second-regular{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+  }
+  .first-API{
+    font-weight: lighter;
+     display: flex;
+     flex-direction: column;
+     border-bottom: none;
+     justify-content: space-between;
+     
+   }
+   .second-API{
+     display: flex;
+     flex-direction: column;
+   }
+  .second-API1{
+    display: none;
+  }
+.new-table{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 15%;
+}
+  .firstnew{
+    display: flex;
+    flex-direction: column;
+    border-bottom: none;
+    justify-content: space-between;
+  
+  }
+  .secondnew{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  span.s-value2 {
+    padding-left:0%;
+  }
+  span.s-value3 {
+    padding-left: 0%;
+  }
+  span.s-value4 {
+    padding-left: 0%;
+  }
+  span.s-value5 {
+    padding-left: 0%;
+  }
+  span.s-value6 {
+    padding-left: 0%;
+  }
+  span.s-value7 {
+    padding-left: 0%;
+  }
+  .middle{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    height: 400px;
+    align-items: center;
+  }
+  .text-center{
+    display: flex;
+    flex-direction: row;
+  }
+  .content{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+  }
+  .price{
+    margin-left: 0px;
+    
+  }
+  .coins{
+    margin-left: 0px;
+  }
+  
+  .pairs{
+    margin-left: 0px;
+  }
+  .list{
+    height: 80px;
+  }
+  .element-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .B_img{
+    margin-left: -100px;
+    margin-bottom: 20px;
+  }
+  .More{
+    /* display: flex;
+    position: absolute;
+    transform: translate(300%, -50%); */
+    margin-left: 40%; 
+  }
+  .sub-element1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+  }
+  .sub-element2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+  }
+  .sub-element3{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+  }
+  .sub-element4{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+  }
+  .sub-element5{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+  }
+  .Fiat{
+    margin-left: 0px;
+  }
+  .website{
+    margin-left: 0px;
+  }
+  .market{
+    margin-left: 0px;
+  }
+  .rank{
+    margin-left: 0px;
+  }
+  .payment{
+    margin-left: 0px;
+  }
+  .Email{
+    margin-left: 0px;
+  }
+  .code{
+    margin-left: 0px;
+  }
+  .community{
+    margin-left: 0px;
+  }
+  .tsub-element1{
+    display: flex;
+    flex-direction: column;
+  }
+  .b-trust{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 40%;
+  }
+  .b-trust2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .t-table{
+    border-bottom: none;
+    display: flex;
+    flex-direction: column;
+  }
+  .t-table1{
+    margin-left: 110%;
+    
+  }
+  .second-table{
+    display: flex;
+    flex-direction: column;
+  }
+  .sub-table{
+    display: flex;
+    flex-direction: column;
+  }
+    .b-head {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      display: inline-flex;
+      width: 147px;
+      align-items: center;
+  }
+  .line{
+    height: 8px;
+    width: 100%;
+  }
+  .liquidity-value{
+    padding-left: 0%;
+  }
+  .ant-progress-line {
+    position: relative;
+    width: 100%!important;
+    font-size: 14px;
+    padding-left: 0%; 
+  }
+  .liquidity-value1{
+    padding-left: 20%;
+    margin-bottom: 5%;
+  }
+  .liquidity-value2{
+    padding-left: 200%;
+  }
+  .API-table{
+    display: flex;
+    flex-direction: row;
+  }
+ 
+}
